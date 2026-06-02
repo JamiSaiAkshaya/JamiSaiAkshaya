@@ -19,7 +19,7 @@ I focus on building intelligent systems powered by AI, machine learning, and dat
 ## Tech stack
 
 ```text
-Languages    │ Python · Java · C++ · JavaScript · SQL · C
+Languages    │ Java · Python · C++ · JavaScript · SQL · C
 AI / ML      │ PyTorch · Deep Learning · CNN · NLP · Scikit-Learn · Data Analytics
 Frontend     │ HTML · CSS · JavaScript · Streamlit
 Databases    │ MySQL · MongoDB · Firebase
