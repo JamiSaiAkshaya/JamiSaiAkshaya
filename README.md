@@ -1,4 +1,4 @@
-# Hey, I'm Akshaya 👋
+# Hey, I'm Jami Sai Akshaya 👋
 
 ### AI/ML Engineer · Full Stack Developer · Data Analyst · CSE @ Rajalakshmi Engineering College
 
