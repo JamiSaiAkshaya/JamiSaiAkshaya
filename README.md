@@ -81,4 +81,4 @@ Strong foundation in:
 
 ---
 
-### I turn complex problems into intelligent solutions. If you're driven to shape the future and make a difference, let's connect.
+<p align="center"><i>I turn complex problems into intelligent solutions. If you're driven to shape the future and make a difference, let's connect.</i></p>
